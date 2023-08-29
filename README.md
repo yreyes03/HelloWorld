@@ -1,6 +1,6 @@
 # HelloWorld
 
-We want to clarify taht this is just text.
+We want to clarify that this is just text.
 
 ## This is a header
 
